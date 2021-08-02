@@ -1,0 +1,395 @@
+{
+    "help": "https://data.gov.il/api/3/action/help_show?name=datastore_search",
+    "success": true,
+    "result": {
+        "include_total": false,
+        "limit": 20,
+        "records_format": "objects",
+        "resource_id": "b9d690de-0a9c-45ef-9ced-3e5957776b26",
+        "total_estimation_threshold": null,
+        "records": [
+            {
+                "_id": 1,
+                "Bank_Code": 13,
+                "Bank_Name": "13001-בנק אגוד לישראל בע\"מ",
+                "Branch_Code": 157,
+                "Atm_Num": 1572,
+                "ATM_Address": "ויצמן 32",
+                "ATM_Address_Extra": "",
+                "City": "תל אביב -יפו",
+                "Commission": "לא",
+                "ATM_Type": "מכשיר מידע/או מתן הוראות\n",
+                "ATM_Location": "על קיר הסניף",
+                "Handicap_Access": "לא",
+                "X_Coordinate": 34.789425,
+                "Y_Coordinate": 32.084588
+            },
+            {
+                "_id": 2,
+                "Bank_Code": 13,
+                "Bank_Name": "13001-בנק אגוד לישראל בע\"מ",
+                "Branch_Code": 192,
+                "Atm_Num": 1922,
+                "ATM_Address": "הגדוד העברי 10",
+                "ATM_Address_Extra": "",
+                "City": "אשקלון",
+                "Commission": "לא",
+                "ATM_Type": "מכשיר מידע/או מתן הוראות\n",
+                "ATM_Location": "על קיר הסניף",
+                "Handicap_Access": "כן",
+                "X_Coordinate": 34.585473,
+                "Y_Coordinate": 31.665121
+            },
+            {
+                "_id": 3,
+                "Bank_Code": 13,
+                "Bank_Name": "13001-בנק אגוד לישראל בע\"מ",
+                "Branch_Code": 192,
+                "Atm_Num": 1921,
+                "ATM_Address": "הגדוד העברי 10",
+                "ATM_Address_Extra": "",
+                "City": "אשקלון",
+                "Commission": "לא",
+                "ATM_Type": "משיכת מזומן",
+                "ATM_Location": "על קיר הסניף",
+                "Handicap_Access": "כן",
+                "X_Coordinate": 34.585473,
+                "Y_Coordinate": 31.665121
+            },
+            {
+                "_id": 4,
+                "Bank_Code": 13,
+                "Bank_Name": "13001-בנק אגוד לישראל בע\"מ",
+                "Branch_Code": 158,
+                "Atm_Num": 1581,
+                "ATM_Address": "פנחס אילון 13",
+                "ATM_Address_Extra": "חולון",
+                "City": "חולון",
+                "Commission": "לא",
+                "ATM_Type": "משיכת מזומן",
+                "ATM_Location": "במרחק של עד 500 מטר מהסניף",
+                "Handicap_Access": "כן",
+                "X_Coordinate": 34.778362,
+                "Y_Coordinate": 32.008634
+            },
+            {
+                "_id": 5,
+                "Bank_Code": 13,
+                "Bank_Name": "13001-בנק אגוד לישראל בע\"מ",
+                "Branch_Code": 159,
+                "Atm_Num": 1591,
+                "ATM_Address": "ז'בוטינסקי 20",
+                "ATM_Address_Extra": "",
+                "City": "ראשון לציון",
+                "Commission": "לא",
+                "ATM_Type": "משיכת מזומן",
+                "ATM_Location": "על קיר הסניף",
+                "Handicap_Access": "לא",
+                "X_Coordinate": 34.800053,
+                "Y_Coordinate": 31.96343
+            },
+            {
+                "_id": 6,
+                "Bank_Code": 13,
+                "Bank_Name": "13001-בנק אגוד לישראל בע\"מ",
+                "Branch_Code": 157,
+                "Atm_Num": 1571,
+                "ATM_Address": "ויצמן 32",
+                "ATM_Address_Extra": "",
+                "City": "תל אביב -יפו",
+                "Commission": "לא",
+                "ATM_Type": "משיכת מזומן",
+                "ATM_Location": "על קיר הסניף",
+                "Handicap_Access": "לא",
+                "X_Coordinate": 34.789425,
+                "Y_Coordinate": 32.084588
+            },
+            {
+                "_id": 7,
+                "Bank_Code": 13,
+                "Bank_Name": "13001-בנק אגוד לישראל בע\"מ",
+                "Branch_Code": 165,
+                "Atm_Num": 1651,
+                "ATM_Address": "שמגר 10",
+                "ATM_Address_Extra": "",
+                "City": "ירושלים",
+                "Commission": "לא",
+                "ATM_Type": "משיכת מזומן",
+                "ATM_Location": "על קיר הסניף",
+                "Handicap_Access": "כן",
+                "X_Coordinate": 35.208529,
+                "Y_Coordinate": 31.793049
+            },
+            {
+                "_id": 8,
+                "Bank_Code": 13,
+                "Bank_Name": "13001-בנק אגוד לישראל בע\"מ",
+                "Branch_Code": 51,
+                "Atm_Num": 511,
+                "ATM_Address": "בן יהודה 1",
+                "ATM_Address_Extra": "",
+                "City": "ירושלים",
+                "Commission": "לא",
+                "ATM_Type": "משיכת מזומן",
+                "ATM_Location": "על קיר הסניף",
+                "Handicap_Access": "כן",
+                "X_Coordinate": 35.219344,
+                "Y_Coordinate": 31.781775
+            },
+            {
+                "_id": 9,
+                "Bank_Code": 13,
+                "Bank_Name": "13001-בנק אגוד לישראל בע\"מ",
+                "Branch_Code": 62,
+                "Atm_Num": 621,
+                "ATM_Address": "ז'בוטינסקי 1",
+                "ATM_Address_Extra": "",
+                "City": "רמת גן",
+                "Commission": "לא",
+                "ATM_Type": "משיכת מזומן",
+                "ATM_Location": "על קיר הסניף",
+                "Handicap_Access": "כן",
+                "X_Coordinate": 34.800452,
+                "Y_Coordinate": 32.082928
+            },
+            {
+                "_id": 10,
+                "Bank_Code": 13,
+                "Bank_Name": "13001-בנק אגוד לישראל בע\"מ",
+                "Branch_Code": 63,
+                "Atm_Num": 631,
+                "ATM_Address": "אחוזת בית 6",
+                "ATM_Address_Extra": "",
+                "City": "תל אביב -יפו",
+                "Commission": "לא",
+                "ATM_Type": "משיכת מזומן",
+                "ATM_Location": "על קיר הסניף",
+                "Handicap_Access": "כן",
+                "X_Coordinate": 34.770454,
+                "Y_Coordinate": 32.06426
+            },
+            {
+                "_id": 11,
+                "Bank_Code": 13,
+                "Bank_Name": "13001-בנק אגוד לישראל בע\"מ",
+                "Branch_Code": 64,
+                "Atm_Num": 641,
+                "ATM_Address": "אהרון בקר 8",
+                "ATM_Address_Extra": "",
+                "City": "תל אביב -יפו",
+                "Commission": "לא",
+                "ATM_Type": "משיכת מזומן",
+                "ATM_Location": "על קיר הסניף",
+                "Handicap_Access": "לא",
+                "X_Coordinate": 34.816495,
+                "Y_Coordinate": 32.12303
+            },
+            {
+                "_id": 12,
+                "Bank_Code": 13,
+                "Bank_Name": "13001-בנק אגוד לישראל בע\"מ",
+                "Branch_Code": 66,
+                "Atm_Num": 661,
+                "ATM_Address": "גורדון 42",
+                "ATM_Address_Extra": "",
+                "City": "תל אביב -יפו",
+                "Commission": "לא",
+                "ATM_Type": "משיכת מזומן",
+                "ATM_Location": "על קיר הסניף",
+                "Handicap_Access": "כן",
+                "X_Coordinate": 34.773687,
+                "Y_Coordinate": 32.081715
+            },
+            {
+                "_id": 13,
+                "Bank_Code": 13,
+                "Bank_Name": "13001-בנק אגוד לישראל בע\"מ",
+                "Branch_Code": 70,
+                "Atm_Num": 701,
+                "ATM_Address": "ההסתדרות 26",
+                "ATM_Address_Extra": "",
+                "City": "פתח תקווה",
+                "Commission": "לא",
+                "ATM_Type": "משיכת מזומן",
+                "ATM_Location": "על קיר הסניף",
+                "Handicap_Access": "לא",
+                "X_Coordinate": 34.886827,
+                "Y_Coordinate": 32.086067
+            },
+            {
+                "_id": 14,
+                "Bank_Code": 13,
+                "Bank_Name": "13001-בנק אגוד לישראל בע\"מ",
+                "Branch_Code": 71,
+                "Atm_Num": 711,
+                "ATM_Address": "שדרות ירושלים 12",
+                "ATM_Address_Extra": "",
+                "City": "אשדוד",
+                "Commission": "לא",
+                "ATM_Type": "משיכת מזומן",
+                "ATM_Location": "על קיר הסניף",
+                "Handicap_Access": "לא",
+                "X_Coordinate": 34.639519,
+                "Y_Coordinate": 31.795554
+            },
+            {
+                "_id": 15,
+                "Bank_Code": 13,
+                "Bank_Name": "13001-בנק אגוד לישראל בע\"מ",
+                "Branch_Code": 72,
+                "Atm_Num": 721,
+                "ATM_Address": "סוקולוב 38",
+                "ATM_Address_Extra": "",
+                "City": "הרצלייה",
+                "Commission": "לא",
+                "ATM_Type": "משיכת מזומן",
+                "ATM_Location": "על קיר הסניף",
+                "Handicap_Access": "לא",
+                "X_Coordinate": 34.844708,
+                "Y_Coordinate": 32.167074
+            },
+            {
+                "_id": 16,
+                "Bank_Code": 13,
+                "Bank_Name": "13001-בנק אגוד לישראל בע\"מ",
+                "Branch_Code": 73,
+                "Atm_Num": 731,
+                "ATM_Address": "ניסנבאום 33",
+                "ATM_Address_Extra": "",
+                "City": "בת ים",
+                "Commission": "לא",
+                "ATM_Type": "משיכת מזומן",
+                "ATM_Location": "על קיר הסניף",
+                "Handicap_Access": "לא",
+                "X_Coordinate": 34.752276,
+                "Y_Coordinate": 32.012404
+            },
+            {
+                "_id": 17,
+                "Bank_Code": 13,
+                "Bank_Name": "13001-בנק אגוד לישראל בע\"מ",
+                "Branch_Code": 74,
+                "Atm_Num": 741,
+                "ATM_Address": "משה לוי 11",
+                "ATM_Address_Extra": "",
+                "City": "ראשון לציון",
+                "Commission": "לא",
+                "ATM_Type": "משיכת מזומן",
+                "ATM_Location": "על קיר הסניף",
+                "Handicap_Access": "לא",
+                "X_Coordinate": 34.774043,
+                "Y_Coordinate": 31.989113
+            },
+            {
+                "_id": 18,
+                "Bank_Code": 13,
+                "Bank_Name": "13001-בנק אגוד לישראל בע\"מ",
+                "Branch_Code": 75,
+                "Atm_Num": 751,
+                "ATM_Address": "אחוזה 153 153",
+                "ATM_Address_Extra": "",
+                "City": "רעננה",
+                "Commission": "לא",
+                "ATM_Type": "משיכת מזומן",
+                "ATM_Location": "על קיר הסניף",
+                "Handicap_Access": "כן",
+                "X_Coordinate": 34.870682,
+                "Y_Coordinate": 32.181288
+            },
+            {
+                "_id": 19,
+                "Bank_Code": 13,
+                "Bank_Name": "13001-בנק אגוד לישראל בע\"מ",
+                "Branch_Code": 76,
+                "Atm_Num": 761,
+                "ATM_Address": "משה דיין 14",
+                "ATM_Address_Extra": "",
+                "City": "פתח תקווה",
+                "Commission": "לא",
+                "ATM_Type": "משיכת מזומן",
+                "ATM_Location": "על קיר הסניף",
+                "Handicap_Access": "לא",
+                "X_Coordinate": 34.861778,
+                "Y_Coordinate": 32.095662
+            },
+            {
+                "_id": 20,
+                "Bank_Code": 13,
+                "Bank_Name": "13001-בנק אגוד לישראל בע\"מ",
+                "Branch_Code": 78,
+                "Atm_Num": 781,
+                "ATM_Address": "המלאכה 22",
+                "ATM_Address_Extra": "",
+                "City": "ראש העין",
+                "Commission": "לא",
+                "ATM_Type": "משיכת מזומן",
+                "ATM_Location": "על קיר הסניף",
+                "Handicap_Access": "כן",
+                "X_Coordinate": 34.964501,
+                "Y_Coordinate": 32.108922
+            }
+        ],
+        "fields": [
+            {
+                "id": "_id",
+                "type": "int"
+            },
+            {
+                "id": "Bank_Code",
+                "type": "numeric"
+            },
+            {
+                "id": "Bank_Name",
+                "type": "text"
+            },
+            {
+                "id": "Branch_Code",
+                "type": "numeric"
+            },
+            {
+                "id": "Atm_Num",
+                "type": "numeric"
+            },
+            {
+                "id": "ATM_Address",
+                "type": "text"
+            },
+            {
+                "id": "ATM_Address_Extra",
+                "type": "text"
+            },
+            {
+                "id": "City",
+                "type": "text"
+            },
+            {
+                "id": "Commission",
+                "type": "text"
+            },
+            {
+                "id": "ATM_Type",
+                "type": "text"
+            },
+            {
+                "id": "ATM_Location",
+                "type": "text"
+            },
+            {
+                "id": "Handicap_Access",
+                "type": "text"
+            },
+            {
+                "id": "X_Coordinate",
+                "type": "numeric"
+            },
+            {
+                "id": "Y_Coordinate",
+                "type": "numeric"
+            }
+        ],
+        "_links": {
+            "start": "/api/3/action/datastore_search?resource_id=b9d690de-0a9c-45ef-9ced-3e5957776b26&limit=20",
+            "next": "/api/3/action/datastore_search?resource_id=b9d690de-0a9c-45ef-9ced-3e5957776b26&limit=20&offset=20"
+        }
+    }
+}

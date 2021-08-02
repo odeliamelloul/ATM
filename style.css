@@ -1,0 +1,32 @@
+
+.map-container,#gmap_canvas{
+    height:350px;
+    width: 100%;
+}
+
+.dataTable-top{
+    background-color: rgb(204, 255, 238);
+    text-align: center;
+}
+.dataTable-input{
+    text-align: center;
+    
+}
+.dataTable-search{
+    float: none !important;
+}
+table,td,tr,th{
+    border: 1px solid black;
+}
+td{
+    width: max-content;
+}
+table{
+    width: 100% !important;
+    font-size: 12px !important;
+    font-weight: bold;
+    background-color: rgb(169, 247, 221);
+}
+th{
+    background-color: rgb(0, 236, 185);
+}
