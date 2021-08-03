@@ -2,31 +2,45 @@
 .map-container,#gmap_canvas{
     height:350px;
     width: 100%;
+    color: antiquewhite;
 }
 
 .dataTable-top{
-    background-color: rgb(204, 255, 238);
+    background-color: #123c85;
     text-align: center;
 }
-.dataTable-input{
-    text-align: center;
-    
-}
+
 .dataTable-search{
     float: none !important;
+    margin-right: 15.0px;
 }
-table,td,tr,th{
-    border: 1px solid black;
+#myTable,td,tr,a{
+    color: antiquewhite !important;
 }
 td{
-    width: max-content;
+   direction: rtl;
+   text-align: right;
+   background-color: #123c85;
 }
-table{
+.dataTable-sorter ,li a{
+    color: #123c85 !important;
+    background-color: antiquewhite;
+    font-weight: bold;
+}
+#myTable{
+    border: 1px solid #fceeb1;
     width: 100% !important;
     font-size: 12px !important;
     font-weight: bold;
-    background-color: rgb(169, 247, 221);
+    background-color: #123c85;
 }
-th{
-    background-color: rgb(0, 236, 185);
+.dataTable-input,th,.dataTable-selector{
+    text-align: center;
+   color: #123c85;
+   background-color: antiquewhite;
+   font-weight: bold;
+}
+
+label{
+    color: antiquewhite;
 }
