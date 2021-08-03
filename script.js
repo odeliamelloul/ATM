@@ -86,7 +86,7 @@ function init_map(name,num, address, x, y) {
   let infowindow = new google.maps.InfoWindow({
     content: `
         <strong>שם: ${name} </strong>
-        <br> ATM ${num}
+        <br> מספר: ${num}
         <br> כתובת: ${address} 
       `,
   });
