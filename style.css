@@ -6,8 +6,9 @@
 }
 
 .dataTable-top{
-    background-color: #123c85;
+    background-color: #188d87;
     text-align: center;
+    width: 100%;
 }
 
 .dataTable-search{
@@ -20,18 +21,18 @@
 td{
    direction: rtl;
    text-align: right;
-   background-color: #123c85;
+   background-color: #188d87;
 }
 .dataTable-sorter ,li a{
-    color: #123c85 !important;
+    color: #188d87 !important;
     background-color: antiquewhite;
     font-weight: bold;
 }
-#myTable,.gm-style-iw{
+#myTable,.gm-style-iw,td{
     border: 1px solid #fceeb1;
-    font-size: 12px !important;
+    font-size: 11px !important;
     font-weight: bold;
-    background-color: #123c85!important;
+    background-color: #188d87!important;
    
 }
 .gm-style-iw-d{
@@ -46,7 +47,7 @@ text-align: right;
 }
 .dataTable-input,th,.dataTable-selector{
     text-align: center;
-   color: #123c85;
+   color: #188d87;
    background-color: antiquewhite;
    font-weight: bold;
 }
@@ -55,3 +56,10 @@ text-align: right;
 label{
     color: antiquewhite;
 }
+#searchBtn
+{
+ height: 25px;
+
+}
+
+
