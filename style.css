@@ -27,12 +27,22 @@ td{
     background-color: antiquewhite;
     font-weight: bold;
 }
-#myTable{
+#myTable,.gm-style-iw{
     border: 1px solid #fceeb1;
-    width: 100% !important;
     font-size: 12px !important;
     font-weight: bold;
-    background-color: #123c85;
+    background-color: #123c85!important;
+   
+}
+.gm-style-iw-d{
+    overflow: unset !important;
+}
+.gm-style-iw-d div
+{
+text-align: right;
+}
+.gm-ui-hover-effect{
+    background-color: wheat !important;
 }
 .dataTable-input,th,.dataTable-selector{
     text-align: center;
@@ -40,6 +50,7 @@ td{
    background-color: antiquewhite;
    font-weight: bold;
 }
+
 
 label{
     color: antiquewhite;
