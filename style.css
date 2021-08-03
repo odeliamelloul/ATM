@@ -42,7 +42,7 @@ td{
 text-align: right;
 }
 .gm-ui-hover-effect{
-    color: wheat !important;
+    background-color: wheat !important;
 }
 .dataTable-input,th,.dataTable-selector{
     text-align: center;
