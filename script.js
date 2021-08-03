@@ -76,17 +76,17 @@ const drawOnMap = (Content) => {
   }
 };
 const myOptions = {
-  zoom: 8,
-  center: new google.maps.LatLng(31.4037193, 33.9606947),
+  zoom: 7,
+  center: new google.maps.LatLng(32.4528759,37.9159274),
   mapTypeId: google.maps.MapTypeId.ROADMAP,
 };
 const map = new google.maps.Map(selectorMapElement, myOptions);
 
 function init_map(name,num, address, x, y) {
   let infowindow = new google.maps.InfoWindow({
-    content: `
+        content: `
         <strong>שם: ${name} </strong>
-        <br> ATM ${num}
+        <br> מספר : ${num}
         <br> כתובת: ${address} 
       `,
   });
